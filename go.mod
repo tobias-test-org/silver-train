@@ -1,6 +1,6 @@
 module github.com/tobias-test-org/silver-train
 
-go 1.12
+go 1.19
 
 require (
 	github.com/google/go-github v36.0.0
