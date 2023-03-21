@@ -4,5 +4,5 @@ go 1.12
 
 require (
 	github.com/google/go-github v36.0.0
-	github.com/tobias-test-org/private-go v0.0.0-20211027103528-3ea57d48691b
+	github.com/tobias-test-org/private-go 9ba7a92fb10f
 )
